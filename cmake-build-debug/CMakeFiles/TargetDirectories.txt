@@ -1,0 +1,3 @@
+/Users/yiz96/C++Workspace/MyTestHttpModule/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yiz96/C++Workspace/MyTestHttpModule/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yiz96/C++Workspace/MyTestHttpModule/cmake-build-debug/CMakeFiles/MyTestHttpModule.dir
